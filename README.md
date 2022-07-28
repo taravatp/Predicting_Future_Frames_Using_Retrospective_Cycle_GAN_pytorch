@@ -6,7 +6,7 @@ this reposityry contains the Pytorch implementations of this paper: [Predicting 
 * [Dataset.ipynb](https://github.com/taravatp/Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_pytorch/blob/main/dataset_prepration/Dataset.ipynb): Processes the raw data to be loaded by the Pytorch Dataloaders. Each loaded sample will include 5 images. According to the paper, in the forward scenario, the first four images will be fed into the model and the fifth image is our target image.
 * [models.ipynb](https://github.com/taravatp/Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_pytorch/blob/main/models.ipynb): Contains implementations of the generator and discriminator according to what was described in the paper.
 
-<p aling="center">
+<p align="center" width="100%">
 <img src="images/generator.png" width="80%" height="80%">
 <img src="images/discriminator.png" width="80%" height="80%">
 </p>
