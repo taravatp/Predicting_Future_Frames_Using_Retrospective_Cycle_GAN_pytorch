@@ -11,5 +11,8 @@ this reposityry contains the Pytorch implementations of this paper: [Predicting 
 <img src="images/discriminator.png" width="70%" height="60%">
 </p>
 
+* [train.ipynb](https://github.com/taravatp/Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_pytorch/blob/main/models.ipynb): Code for training the GAN network according to the method suggested by the author of the [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf). the following image showcases the entire strategy of training:
 
-
+<p align="center" width="100%">
+<img src="images/proposed_method.png" width="70%" height="60%">
+</p>
