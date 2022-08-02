@@ -18,3 +18,4 @@
 </p>
 
 ## Results:
+<video src='Results/groundTruth_video.mp4' />
