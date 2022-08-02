@@ -18,4 +18,4 @@
 </p>
 
 ## Results:
-<video src='Results/groundTruth_video.mp4' />
+https://github.com/taravatp/Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_pytorch/blob/main/Results/groundTruth_video.mp4
