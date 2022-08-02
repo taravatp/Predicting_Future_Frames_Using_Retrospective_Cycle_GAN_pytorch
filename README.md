@@ -18,9 +18,10 @@
 </p>
 
 ## Results:
-
-https://user-images.githubusercontent.com/52631070/182412826-de5e9d2d-da7b-4e62-a405-4a5cad889ed3.mp4
-
-https://user-images.githubusercontent.com/52631070/182413481-cf7aaf37-7e01-48c8-888d-da1584150111.mp4
+The left one is the ground truth video and the right one the is predicted video:
+<p align="center" width="100%">
+<img src="results/groundTruth_video.gif" width="45%" height="60%">
+<img src="results/output_video.gif" width="45%" height="60%">
+</p>
 
 
