@@ -19,11 +19,10 @@
 
 ## Results:
 
-**ground truth video:**
+<p align="center" width="100%">
 https://user-images.githubusercontent.com/52631070/182412826-de5e9d2d-da7b-4e62-a405-4a5cad889ed3.mp4
 
-**predicted video:**
 https://user-images.githubusercontent.com/52631070/182413481-cf7aaf37-7e01-48c8-888d-da1584150111.mp4
-
+</p>
 
 
